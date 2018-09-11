@@ -11,14 +11,10 @@ In the "source" folder you will find an example PSD for mobile devices. In this 
 - Create multiple commits (not only one big commit).
 - Push the changes after you complete your work.
 
-## Fast installation + setup (for mac + linux)
+## Introduction
 
-```
-git clone https://github.com/pierre-bergx2/bergx2-css-eval && 
-cd bergx2-css-eval && git checkout -b applicant-$(whoami) && 
-git push -u origin applicant-$(whoami)
-
-```
+Please fork the repo, complete the task given and send us the link to your version.
+[How to fork a repo?](https://help.github.com/articles/fork-a-repo/)
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<thead>
