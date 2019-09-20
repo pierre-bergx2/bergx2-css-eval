@@ -7,9 +7,9 @@ The repository is used to evaluate applicants in their frontend development skil
 
 In the "source" folder you will find an example PSD for mobile devices. In this case for an iPhone 7 with 375x667 pixels. Your job is to convert the design into HTML + CSS. We attach great importance to pixel perfectness as well as for responsivesness (result should be scalable).
 
-- Please create a new branch out of the applicants branch. 
-- Create multiple commits (not only one big commit).
-- Push the changes after you complete your work.
+- Download the repo
+- Make your changes
+- Pack them into a zip and send it to us
 
 ## Introduction
 
